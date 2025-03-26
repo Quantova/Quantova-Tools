@@ -1,0 +1,9 @@
+[package]
+name = "quantum_resistant_toolkit"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+pqcrypto-traits = "0.3.4"
+pqcrypto-ntru = "0.5.1"
+rand = "0.8.5"
